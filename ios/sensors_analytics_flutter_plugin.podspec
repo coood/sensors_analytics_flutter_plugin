@@ -1,6 +1,6 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
-#
+# 1
 Pod::Spec.new do |s|
   s.name             = 'sensors_analytics_flutter_plugin'
   s.version          = '1.0.0'
